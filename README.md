@@ -34,3 +34,10 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
   <a href="https://www.instagram.com/tiagokings?utm_source=qr&igsh=MWh0OXR3ODE4anQwZA==" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+
+<br/>
+
+<a href ="https://github.com/DevTiagokings">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevTiagokings&theme=dark&show_icons=true"/>
+</a>
+
