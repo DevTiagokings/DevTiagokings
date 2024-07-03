@@ -20,6 +20,10 @@
   🛠️ Ferramentas: Visual Estudio Code e Postman.
 </p>
 
+<p align="left">
+  🖥️ Plataformas de Estudo: Curso em Vídeo, Alura, Senai, Descomplica e Youtube.
+</p>
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tiago-gomes-b65152260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn">
