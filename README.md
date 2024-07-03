@@ -5,11 +5,11 @@
 </p>
 
 <p align="left"> 
-   📚 Me desenvolvendo em Full Stack
+   📚 Me desenvolvendo em Full Stack.
 </p>
 
 <p align="left">
-  💻 Linguagens: html, css, javascript e Typescript,
+  💻 Linguagens: html, css, javascript e Typescript.
 </p>
 
 <p align="left">
@@ -17,12 +17,12 @@
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: Visual Estudio Code e Postman
+  🛠️ Ferramentas: Visual Estudio Code e Postman.
 </p>
 
 
 <p align="left">
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/tiago-gomes-b65152260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
