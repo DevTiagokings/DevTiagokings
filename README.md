@@ -40,7 +40,7 @@
 </p>
 
 <p align="left">
-  🖥️ Plataformas de Estudo: Curso em Vídeo, Alura, Senai, Descomplica e Youtube.
+  🖥️ Plataformas de Estudo: Curso em Vídeo, Alura, Senai e Youtube.
 </p>
 
 
