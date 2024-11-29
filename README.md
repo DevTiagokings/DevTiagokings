@@ -16,6 +16,7 @@
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
    ![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
    ![Csharp](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
+   ![pyton](https://img.shields.io/badge/-pyton-333333?style=flat&logo=pyton)
    
    
  
