@@ -15,7 +15,7 @@
    ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
    ![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
-   ![C_sharp](https://img.shields.io/badge/-csharp-333333?style=flat&logo=c_sharp)
+   ![C_sharp](https://img.shields.io/badge/-csharp-333333?style=flat&logo=c-sharp)
    ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
    
    
