@@ -17,6 +17,7 @@
    ![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
    ![C_sharp](https://img.shields.io/badge/-csharp-333333?style=flat&logo=c-sharp)
    ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+    ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
    
    
  
