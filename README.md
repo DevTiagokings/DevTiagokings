@@ -12,10 +12,10 @@
   💻 Linguagens
    
    ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-   ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
+   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
    ![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
-   ![C_sharp](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
+   ![Csharp](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
    ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
     ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
    
