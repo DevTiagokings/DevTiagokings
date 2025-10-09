@@ -15,7 +15,7 @@
    ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
    ![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
-   ![Csharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp)
+   ![Csharp](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=C#)
    ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
     ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
    
