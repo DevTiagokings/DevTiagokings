@@ -5,7 +5,7 @@
 </p>
 
 <p align="left"> 
-   📚 Me desenvolvendo em Full Stack.
+   📚 Estudando PHP e programação orientada a objetos em PHP
 </p>
 
 <p align="left">
